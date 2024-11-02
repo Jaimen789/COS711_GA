@@ -1,2 +1,2 @@
 # COS711_GA
-Malaria Detection
+Malaria Detection in Images
