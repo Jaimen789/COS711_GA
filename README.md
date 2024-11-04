@@ -1,2 +1,2 @@
 # COS711_GA
-Malaria Detection in Images
+Multiclass object detection and classification model that can accurately identify and classify malaria parasites in blood slide images.
